@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "c32d3f69f4e06c33",
+    "username": "error",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
